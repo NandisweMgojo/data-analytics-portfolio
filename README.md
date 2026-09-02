@@ -1,6 +1,4 @@
-# data-analytics-portfolio
-A Power BI learning project where I collected survey data, prepared and analysed it in Excel and Power BI, and created an interactive dashboard exploring mental health experiences, stress levels, support and help-seeking across different age groups.
-Data Analytics Portfolio
+#  Data Analytics Portfolio
 
 Welcome to my data analytics portfolio!
 
@@ -8,7 +6,7 @@ I am building my skills in data analytics through practical projects using tools
 
 This portfolio documents my learning journey and projects where I apply data analysis, data visualisation and problem-solving skills to real-world and self-generated datasets.
 
-## Projects
+##  Projects
 
 ### Mental Health Survey — Power BI Dashboard
 
